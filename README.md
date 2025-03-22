@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevloperAkii
+- 👋 Hi, I’m @AkshitPatel
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Games
 <!---
